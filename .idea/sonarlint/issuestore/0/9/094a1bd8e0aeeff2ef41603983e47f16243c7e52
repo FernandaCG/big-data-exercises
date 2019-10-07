@@ -1,8 +1,0 @@
-
-}squid:S1488"gImmediately return this expression instead of assigning it to the temporary variable "recommendations".(ü›ÿ=
-Wsquid:S3400"9Remove this method and declare a constant for this value.(”·³›8¿Æ¦ÀÙ-
-«squid:S1598"ŽThis file "MovieRecommender.java" should be located in "nearsoft/academy/bigdata/recommendation" directory, not in "/Users/nsf-fcampos/Documents/bigDataProblem/big-data-exercises/src/main/java/nearsoft.academy.bigdata.recommendation"(Do not use dots in directory names).(äÈÇÈøÿÿÿÿ
-Wsquid:S3400"9Remove this method and declare a constant for this value.(”·³›8þœ¤ÀÙ-
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±®”÷
-Bsquid:S1172"+Remove this unused method parameter "User".(±®”÷
-Wsquid:S3400	"9Remove this method and declare a constant for this value.(”·³›8ü©§ÀÙ-
